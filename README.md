@@ -1,3 +1,2 @@
-# gitTutorial - Hello World
-# Test
+# gitTutorial
 
